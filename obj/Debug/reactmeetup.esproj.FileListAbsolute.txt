@@ -1,0 +1,2 @@
+C:\Users\bel0130\source\repos\reactMeetup\reactMeetup\obj\Debug\reactmeetup.esproj.SuggestedBindingRedirects.cache
+C:\Users\bel0130\source\repos\reactMeetup\reactMeetup\obj\Debug\reactmeetup.esproj.CoreCompileInputs.cache
