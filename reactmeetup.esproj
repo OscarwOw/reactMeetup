@@ -16,5 +16,6 @@
     <Folder Include="src\components\meetups\" />
     <Folder Include="src\components\ui\" />
     <Folder Include="src\pages\" />
+    <Folder Include="src\store\" />
   </ItemGroup>
 </Project>
